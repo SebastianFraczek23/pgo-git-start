@@ -1,80 +1,41 @@
-\# pgo-git-start
+# pgo-git-start
 
-
-
-Projekt przygotowany na ćwiczenia z Git i GitHub.
-
-
+Repozytorium zostało utworzone na potrzeby ćwiczeń z przedmiotu PGO.  
+Celem zadania było zapoznanie się z podstawową obsługą systemu kontroli wersji Git oraz publikacją projektu na GitHubie.
 
 Autor: Sebastian Frączek
 
+## Co zostało zrobione
 
+W trakcie ćwiczenia wykonano następujące kroki:
 
-\## Cel projektu
+- utworzenie lokalnego repozytorium Git
+- dodanie plików do repozytorium
+- wykonanie pierwszego commita
+- utworzenie repozytorium na GitHubie i wysłanie projektu
+- praca na dodatkowej gałęzi
+- wprowadzenie zmian w kodzie
+- scalanie zmian do gałęzi głównej
 
-Celem repozytorium jest przećwiczenie podstaw pracy z systemem kontroli wersji Git:
+## Pliki w repozytorium
 
-\- inicjalizacja repozytorium
+W projekcie znajdują się:
 
-\- dodawanie plików do staging area
+- `README.md` – opis projektu
+- `src/Main.java` – prosty program w Javie
 
-\- wykonywanie commitów
+## Użyte polecenia Git
 
-\- publikacja projektu na GitHubie
+Podczas wykonywania ćwiczenia zostały wykorzystane podstawowe polecenia Git, między innymi:
 
-\- praca na gałęziach feature
-
-\- scalanie zmian do gałęzi main
-
-
-
-\## Struktura repozytorium
-
-\- `README.md` – opis projektu i etapy ćwiczenia
-
-\- `src/Main.java` – prosty plik startowy programu w Javie
-
-
-
-\## Etapy ćwiczenia
-
-1\. Utworzenie lokalnego repozytorium Git
-
-2\. Dodanie plików projektu i pierwszy commit
-
-3\. Publikacja repozytorium na GitHubie
-
-4\. Praca na gałęzi `feature/readme`
-
-5\. Praca na gałęzi `feature/info`
-
-6\. Scalanie zmian do gałęzi `main`
-
-
-
-\## Podstawowe polecenia Git użyte w ćwiczeniu
-
-\- `git init`
-
-\- `git status`
-
-\- `git add`
-
-\- `git commit`
-
-\- `git log`
-
-\- `git checkout -b`
-
-\- `git merge`
-
-\- `git push`
-
-## Aktualny stan repozytorium
-Repozytorium zawiera gałąź główną `main` oraz gałęzie funkcjonalne tworzone na potrzeby ćwiczeń.
-Historia zmian dokumentuje kolejne etapy pracy nad zadaniem.
+- `git init`
+- `git status`
+- `git add`
+- `git commit`
+- `git checkout`
+- `git merge`
+- `git push`
 
 ## Podsumowanie
-Ćwiczenie zostało wykonane zgodnie z instrukcją.
-Repozytorium zawiera pracę na gałęziach feature oraz historię commitów.
 
+Repozytorium przedstawia historię pracy nad zadaniem oraz kolejne etapy wykonywania ćwiczenia z wykorzystaniem systemu Git.
