@@ -70,3 +70,7 @@ Celem repozytorium jest przećwiczenie podstaw pracy z systemem kontroli wersji 
 
 \- `git push`
 
+## Aktualny stan repozytorium
+Repozytorium zawiera gałąź główną `main` oraz gałęzie funkcjonalne tworzone na potrzeby ćwiczeń.
+Historia zmian dokumentuje kolejne etapy pracy nad zadaniem.
+
