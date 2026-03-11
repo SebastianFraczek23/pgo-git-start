@@ -74,3 +74,7 @@ Celem repozytorium jest przećwiczenie podstaw pracy z systemem kontroli wersji 
 Repozytorium zawiera gałąź główną `main` oraz gałęzie funkcjonalne tworzone na potrzeby ćwiczeń.
 Historia zmian dokumentuje kolejne etapy pracy nad zadaniem.
 
+## Podsumowanie
+Ćwiczenie zostało wykonane zgodnie z instrukcją.
+Repozytorium zawiera pracę na gałęziach feature oraz historię commitów.
+
